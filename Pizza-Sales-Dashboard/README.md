@@ -26,11 +26,6 @@ An interactive Power BI dashboard developed to analyze pizza sales performance a
 <img width="1345" height="737" alt="image" src="https://github.com/user-attachments/assets/6799eb9f-67b3-4b78-9580-c99937655649" />
 <img width="1337" height="732" alt="image" src="https://github.com/user-attachments/assets/d20f2e9c-f1e1-460e-98de-4cfeffba616c" />
 
-## Project Files
-- Power BI report (.pbix)
-- Dashboard screenshots
-- Dataset (if permitted to share)
-
 ## Key Insights
 ### 1. Overall Sales Performance
 - Generated approximately 817.86K in total revenue during 2015.
